@@ -1,5 +1,4 @@
-ChatGPT
-Coursera - Front-End Developer Capstone Project
+Front-End Developer Capstone Project
 Booking a Table on the Little Lemon Website
 Review Checklist
 In the web browser: Does the Little Lemon web application align with the UI/UX design from the Figma mockup and wireframe?
