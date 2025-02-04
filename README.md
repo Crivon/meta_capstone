@@ -1,23 +1,24 @@
-## Coursera - Front-End Developer Capstone Project
+ChatGPT
+Coursera - Front-End Developer Capstone Project
+Booking a Table on the Little Lemon Website
+Review Checklist
+In the web browser: Does the Little Lemon web application align with the UI/UX design from the Figma mockup and wireframe?
 
-### Booking a table on the Little Lemon website
+In the web browser: Using developer tools, does the web application properly adapt to both mobile and desktop layouts?
 
-#### Review chill
+In Visual Studio Code: Is the BookingForm component nested within a parent component?
 
-In the web browser: Does the Little Lemon web app match the UI/UX from the Figma mockup and wireframe?
+In Visual Studio Code: Is the state for available time slots managed by the parent component of BookingForm?
 
-In the web browser: Does the Little Lemon web app match the UI/UX from the Figma mockup and wireframe?
+In Visual Studio Code: Does the booking form include client-side validation?
 
-In the web browser: Using the web browser developer tools, does the web app layout correctly for both mobile and desktop devices?
+In Visual Studio Code: Have unit tests been implemented for the form component and its validation?
 
-In the web browser: Using the web browser developer tools, does the web app layout correctly for both mobile and desktop devices?
+In Visual Studio Code: Do all unit tests execute successfully?
 
-In visual studio code: Is the BookingForm component a child component?
 
-In visual studio code: Is the state of the available times managed from the parent component of BookingForm?
 
-In visual studio code: Does the booking form implement client-side validation?
 
-In visual studio code: Are there unit tests added for form component and validation?
 
-In visual studio code: Do the unit tests pass successfully?
+
+
